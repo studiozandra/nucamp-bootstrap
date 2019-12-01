@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is a website for the fictional campsite reveiw site Nucamp.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:studiozandra/nucamp-bootstrap.git"
+  },
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
