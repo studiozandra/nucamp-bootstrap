@@ -1,0 +1,1 @@
+An assignment from the Nucamp Coding Bootcamp. Learning how to wield Bootstrap classes, Scss, NPM, and jQuery. 
