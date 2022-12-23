@@ -15,7 +15,7 @@
   "author": "Z Kubota",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.6.1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
